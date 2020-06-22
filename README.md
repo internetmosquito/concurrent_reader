@@ -13,6 +13,7 @@ This is just some dummy project to check how to read csv files concurrently
 
 **TODO**
 
+* Calculate skew among thread or processes
 * Use some generic class and subclass individual readers
 * Add unit testing
 * Make it more generic than just CSV readers
